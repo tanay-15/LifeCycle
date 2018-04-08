@@ -4,7 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class callTimer : MonoBehaviour {
+    public class callTimer : MonoBehaviour {
+
+
     public Rigidbody2D player;
     public GameObject pointB;
     public GameObject pointStop;

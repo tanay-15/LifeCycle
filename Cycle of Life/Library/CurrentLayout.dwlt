@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 950, y: 392}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -93,7 +93,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 821
-  m_MinSize: {x: 950, y: 392}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &5
 MonoBehaviour:
@@ -465,7 +465,7 @@ MonoBehaviour:
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: 0.18084253, y: -0.7420034, z: 0.2212694, w: 0.6064379}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -562,7 +562,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 8c45c7ff9a71e5ff7000e6ff68dfe7ff96f4e7ff8861f0ffc66af0ff0a6bf0ff0e6bf0ff126bf0ff166bf0ff526bf0ff706bf0ff4aa2f0ff3aa6f0ff00b2f0ffd8adfeffd2c4feff90c0ffff16c3ffff9ac3ffffb0c3ffff7cf3ffff000000008a3900005e3c000070450000
+    m_ExpandedIDs: 96fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -636,7 +636,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 71}
     m_SelectedIDs: c2360000
     m_LastClickedID: 14018
-    m_ExpandedIDs: 0000000088300000aa310000483200004e3300004c35000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000ae2c0000022e0000c42e0000f42f000020320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -664,7 +664,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000088300000aa310000483200004e3300004c350000
+    m_ExpandedIDs: 00000000ae2c0000022e0000c42e0000f42f000020320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -695,18 +695,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300008c270000642900002609f7ffd6300000b0360000b25b000086270000c62700002c2700007e2700006e2a00000000000014280000584f0000604f00005c4f0000ae4f000098dcfcff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: EndTIme
-      m_OriginalName: EndTIme
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 156314
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
